@@ -8,7 +8,7 @@ local_scaler = pickle.load(open('sc.pickle','rb'))
 app = Flask(__name__)
 
 @app.route('/model',methods=['POST'])
-def hello_world():
+def Prediction():
     request_data = request.get_json(force=True)
     age = request_data['age']
     salary = request_data['salary']
