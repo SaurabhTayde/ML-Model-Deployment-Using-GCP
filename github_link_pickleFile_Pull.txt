@@ -1,0 +1,5 @@
+Link of Github Repo:
+https://github.com/SaurabhTayde/ML-Model-Deployment-Using-GCP
+
+Link of pickle file to upload on GCP:
+https://github.com/SaurabhTayde/ML-Model-Deployment-Using-GCP/raw/master/classifier.pickle
